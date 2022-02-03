@@ -17,4 +17,4 @@
 
 <h2 align="center">Дизайн</h2>
 <img width="400px" align="left" src="Design/Главная страница.png">
-<img width="400px" align="right" src="Design/Руководство по стилю.png">
+<img width="400px" src="Design/Руководство по стилю.png">
