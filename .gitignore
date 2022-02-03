@@ -1,0 +1,5 @@
+*.scss
+Icon\r
+node_modules/
+package-lock.json
+server.js

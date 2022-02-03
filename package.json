@@ -1,0 +1,30 @@
+{
+  "name": "ugratransstroy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js & npm run scss",
+    "start": "node server.js",
+    "scss": "sass --watch src/scss/style.scss:public/css/style.css src/scss/media.scss:public/css/media.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirsur/ugratransstroy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirsur/ugratransstroy/issues"
+  },
+  "homepage": "https://github.com/sirsur/ugratransstroy#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemailer": "^6.7.2"
+  },
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.15"
+  }
+}

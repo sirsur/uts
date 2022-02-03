@@ -1,0 +1,66 @@
+@media screen and (max-width: 1400px) {
+  img {
+    max-width: 90%;
+  }
+
+  .title {
+    font-size: 40px;
+  }
+
+  .head {
+    font-size: 20px;
+  }
+
+  .middle {
+    font-size: 35px;
+  }
+
+  .works_pic p {
+    font-size: 25px;
+  }
+
+  .company .company_pic .first_p {
+    margin-top: 7%;
+  }
+  .company .company_pic p {
+    font-size: 30px;
+  }
+
+  .rectangle {
+    font-size: 35px;
+  }
+
+  .customers {
+    font-size: 40px;
+  }
+
+  .mail {
+    margin-top: 5%;
+    font-size: 40px;
+  }
+  .mail .mail_h2 {
+    font-size: 35px;
+  }
+  .mail img {
+    margin-top: -25px;
+  }
+
+  .modal-content {
+    width: 950px;
+    height: 1050px;
+    font-size: 30px;
+    padding: 70px;
+  }
+
+  input {
+    width: 70%;
+    height: 11%;
+  }
+
+  .close {
+    font-size: 60px;
+    right: 35px;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */

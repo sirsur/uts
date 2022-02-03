@@ -1,0 +1,265 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #BBD4FA;
+  font-family: Roboto Slab Regular;
+  color: white;
+}
+
+.container {
+  margin: 0 auto;
+  text-transform: uppercase;
+}
+
+.head {
+  padding-top: 5%;
+  font-size: 25px;
+}
+
+.linkers {
+  color: white;
+  text-decoration: none;
+}
+
+.linkers:hover {
+  color: #6D9EAC;
+}
+
+.button {
+  text-transform: uppercase;
+  background-color: #BBD4FA;
+  margin-top: -23px;
+  padding: 20px;
+  color: white;
+  border: 3px solid #6D9EAC;
+  border-radius: 15px;
+}
+
+.middle {
+  font-size: 45px;
+  margin-top: 12%;
+  margin-bottom: 5%;
+}
+
+.logo {
+  margin-bottom: 15px;
+}
+
+.house_header {
+  margin-top: -12%;
+}
+
+.works {
+  background-color: #6D9EAC;
+}
+
+.title {
+  font-size: 45px;
+  margin-top: 5%;
+}
+
+.house_works {
+  margin-top: 5%;
+}
+
+.works_pic {
+  position: relative;
+  margin-bottom: 5%;
+}
+.works_pic p {
+  position: absolute;
+  font-size: 35px;
+  width: 100%;
+  top: 28%;
+}
+.works_pic img {
+  opacity: 50%;
+  filter: grayscale(100%);
+}
+
+.camera img {
+  margin-top: 40%;
+}
+
+.camera p {
+  top: 62%;
+}
+
+.build {
+  margin-top: 11%;
+}
+
+.company {
+  margin-bottom: 5%;
+}
+.company .company_pic {
+  margin-top: 5%;
+}
+.company .company_pic p {
+  font-size: 35px;
+  margin-top: 5%;
+}
+
+.rectangle {
+  width: 100%;
+  padding: 4%;
+  background-color: #6D9EAC;
+  border-radius: 15px;
+  font-size: 40px;
+}
+
+.customers {
+  font-size: 45px;
+  margin-top: 5%;
+}
+.customers .customers_rec {
+  margin-top: 15%;
+  width: 70%;
+  height: 90%;
+  display: inline-block;
+  background-color: white;
+  border-radius: 15px;
+}
+.customers .trans {
+  box-shadow: 4px 10px 4px #8C9FBB;
+}
+.customers .ros {
+  box-shadow: 0 10px 4px #8C9FBB;
+}
+.customers .gaz {
+  box-shadow: -4px 10px 4px #8C9FBB;
+}
+.customers .transneft {
+  margin-top: 25%;
+}
+.customers .rosneft {
+  margin-top: 15%;
+}
+.customers .gazneft {
+  margin-top: 10%;
+}
+.customers hr {
+  margin: 0 auto;
+  background-color: #6D9EAC;
+  height: 3px;
+  width: 60%;
+  margin-top: 7.5%;
+}
+
+.mail {
+  font-size: 45px;
+  margin-top: 7.5%;
+  margin-bottom: 5%;
+}
+.mail .mail_h2 {
+  font-size: 40px;
+}
+.mail .button {
+  margin-top: 30px;
+  font-size: 25px;
+}
+.mail img {
+  margin-top: -50px;
+}
+
+footer {
+  font-size: 25px;
+  background-color: #6D9EAC;
+  padding-bottom: 5%;
+}
+footer img {
+  margin-top: 10%;
+}
+footer .brand {
+  margin-top: 4%;
+  font-family: Roboto Slab Medium;
+}
+footer .wrapper {
+  display: grid;
+}
+footer .right {
+  text-align: right;
+  vertical-align: bottom;
+}
+footer .year {
+  font-size: 35px;
+  color: #478496;
+  margin-top: 11%;
+}
+footer .first {
+  margin-top: 5%;
+}
+footer a {
+  font-family: Roboto Slab Medium;
+  text-decoration: none;
+  color: white;
+}
+footer a:hover {
+  color: #BBD4FA;
+}
+footer p {
+  margin-bottom: 0;
+}
+
+.bg-modal {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  position: fixed;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: none;
+}
+
+.modal-content {
+  width: 550px;
+  height: 570px;
+  background-color: #BBD4FA;
+  border: 3px solid #6D9EAC;
+  border-radius: 15px;
+  text-align: center;
+  padding: 40px;
+  position: relative;
+}
+
+input {
+  width: 70%;
+  height: 8%;
+  display: block;
+  margin: 15px auto;
+  border: 3px solid #6D9EAC;
+  background-color: #6D9EAC;
+  border-radius: 5px;
+  color: white;
+}
+
+input::placeholder {
+  color: white;
+  padding-left: 3px;
+}
+
+.close {
+  color: #6D9EAC;
+  position: absolute;
+  top: 0;
+  right: 14px;
+  font-size: 35px;
+  font-family: sans-serif;
+  transform: rotate(45deg);
+  cursor: pointer;
+}
+
+textarea {
+  border: 3px solid white;
+  background-color: white;
+  border-radius: 5px;
+  color: #6D9EAC;
+}
+
+textarea::placeholder {
+  color: #6D9EAC;
+}
+
+/*# sourceMappingURL=style.css.map */
