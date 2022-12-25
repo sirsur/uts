@@ -1,4 +1,4 @@
-<h1 align="center">Технологический стек</h2>
+<h1 align="center">Технологический стек</h1>
 
 <div align="center">
   
@@ -13,6 +13,6 @@
   
 </div>
 
-<h2 align="center">Дизайн</h2>
+<h1 align="center">Дизайн</h1>
 <img width="400px" align="left" src="Design/Главная страница.png">
 <img width="400px" src="Design/Руководство по стилю.png">
