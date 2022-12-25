@@ -1,8 +1,4 @@
-<h1 align="center">Сайт для компании ЮграТрансСтрой</h1>
-
-<p align="center">https://ugratransstroy.herokuapp.com</p>
-
-<h2 align="center">Технологический стек</h2>
+<h1 align="center">Технологический стек</h2>
 
 <div align="center">
   
